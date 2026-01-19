@@ -1,0 +1,27 @@
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+
+# STM32CubeIDE / Eclipse
+.settings/
+.project
+.cproject
+
+# Generated make files
+objects.list
+objects.mk
+sources.mk
+makefile
+
+# IDE temp files
+.metadata/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
